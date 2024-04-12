@@ -1,0 +1,6 @@
+@Bug_OptionsTable_HostAddress = https://localhost:7088
+
+GET {{Bug_OptionsTable_HostAddress}}/config/
+Accept: application/json
+
+###
